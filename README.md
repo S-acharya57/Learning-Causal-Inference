@@ -2,6 +2,8 @@
 
 This repository consists the journey of learning a new topic Causal Inference. Some of the major topics discussed and implemented in this repo are as follows:
 
+- [Statistics Fundamentals](https://github.com/S-acharya57/Learning-Causal-Inference/tree/main/StatisticsAndProbability) : Has basic concepts of statistics useful in Causal Machine Learning.
+
 - [Counterfactuals and their Meaning](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/Counterfactuals.ipynb): Contains how counterfactuals can be computed via linear regression, and compares them with the ones estimated using libraries.
 
 - [Backdoor Criterion for Effect Estimation](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/backdoor%20criterion.ipynb) : This notebook dives into the meaning of backdoor criterion, examples of confounders, values computed via linear regression controlling confounders(that backdoor criterion does), and compares its values with that from using library.
