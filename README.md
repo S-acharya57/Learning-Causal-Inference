@@ -11,8 +11,11 @@ This repository consists the journey of learning a new topic Causal Inference. S
 - [Average Treatment Effect Basics](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/Causal%20Inference%20ATE.ipynb) : This implements ATE from scratch with linear regression, and compares with that from dowhy library.
 
 - [Treatment Effect Estimation](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/Understanding%20Treatment%20Effect%20Estimation.ipynb) : This notebook implements treatment effect on a synthetic data, and explores the findings from their values. This explores difference between ATE and CATE, and why CATE is essential despite ATE is computed.
+
   - Use of synthetic data with treatment, outcome, and covariates
   - A causal variable that affects the outcome
   - Modeling of ATE Estimation with dowhy causal model
   - CATE for subgroups, divided from the population
   - Change of ATE and CATE, as effect of a treatment variable changes.
+
+- [Matching and Propensity Scores](https://github.com/S-acharya57/Learning-Causal-Inference/tree/main/matching) : Implementation of matching, understanding its importance in understanding causal effects and how it minitages effects of confounders.
