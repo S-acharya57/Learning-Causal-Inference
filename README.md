@@ -19,3 +19,5 @@ This repository consists the journey of learning a new topic Causal Inference. S
   - Change of ATE and CATE, as effect of a treatment variable changes.
 
 - [Matching and Propensity Scores](https://github.com/S-acharya57/Learning-Causal-Inference/tree/main/matching) : Implementation of matching, understanding its importance in understanding causal effects and how it minitages effects of confounders.
+
+- [Marginal Structural Models](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/Marginal%20Structural%20Models.ipynb): Implementation of inverse probability weighting to balance the control and treatment variables, without need to ignore or waste available data.
