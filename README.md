@@ -20,4 +20,6 @@ This repository consists the journey of learning a new topic Causal Inference. S
 
 - [Matching and Propensity Scores](https://github.com/S-acharya57/Learning-Causal-Inference/tree/main/matching) : Implementation of matching, understanding its importance in understanding causal effects and how it minitages effects of confounders.
 
+  - [Causality in Infant Health and Development Program Dataset ]() : EDA and Causal inference in the dataset. Implementation of propensity score matching from scratch, and comparing the estimated effect with that from the `dowhy` library.
+
 - [Marginal Structural Models](https://github.com/S-acharya57/Learning-Causal-Inference/blob/main/Marginal%20Structural%20Models.ipynb): Implementation of inverse probability weighting to balance the control and treatment variables, without need to ignore or waste available data.
